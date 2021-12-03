@@ -6,7 +6,9 @@ Je m'appelle Cyril, je suis développeur Web / Symfony à Lille, France.<br>
 Développeur du site <a href="https://www.tutomarks.fr" target="_blank" title="Ouvrir le site Tutomarks dans une nouvelle fenêtre">Tutomarks</a> qui me permet de partager des liens vidéos, des articles et des podcasts autour du développement Web en général.
 <br>
 <br>
-<a href="https://www.tutomarks.fr" target="_blank" title="Ouvrir le site Tutomarks dans une nouvelle fenêtre"><img alt="Tutomarks" src="https://img.shields.io/badge/tutomarks-white.svg?&style=for-the-badge&logo=https://github.com/tonnevillec/tonnevillec/blob/master/img/tutomarks.svg&logoWidth=20" /></a>
+<a href="https://www.tutomarks.fr" target="_blank" title="Ouvrir le site Tutomarks dans une nouvelle fenêtre">
+<img alt="Tutomarks" src="https://github.com/tonnevillec/tonnevillec/blob/main/img/tutomarks.svg"><img alt="Tutomarks" src="https://img.shields.io/badge/tutomarks-white.svg?&style=for-the-badge" />
+</a>
 </p>
 
 <hr>
