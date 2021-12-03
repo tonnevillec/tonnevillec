@@ -7,7 +7,7 @@ Développeur du site <a href="https://www.tutomarks.fr" target="_blank" title="O
 <br>
 <br>
 <a href="https://www.tutomarks.fr" target="_blank" title="Ouvrir le site Tutomarks dans une nouvelle fenêtre">
-<img alt="Tutomarks" src="https://github.com/tonnevillec/tonnevillec/blob/main/img/tutomarks.svg"><img alt="Tutomarks" src="https://img.shields.io/badge/tutomarks-white.svg?&style=for-the-badge" />
+<img alt="Tutomarks" src="https://github.com/tonnevillec/tonnevillec/blob/main/img/tutomarks.svg" style="height: 28px"><img alt="Tutomarks" src="https://img.shields.io/badge/tutomarks-white.svg?&style=for-the-badge" />
 </a>
 </p>
 
