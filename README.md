@@ -37,8 +37,9 @@ Développeur du site <a href="https://www.tutomarks.fr" target="_blank" title="O
 
 <h3>Je m'y met doucement :p</h3>
 <p>
-<img alt="Vue.js" src="https://img.shields.io/badge/vue.js-35495E.svg?&style=for-the-badge&logo=vue.js&logoColor=4FC08D&logoWidth=20" />
-<img alt="Angular" src="https://img.shields.io/badge/angular-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&logoWidth=20" />
+<img alt="Vue.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20" />
+<!-- <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-35495E.svg?&style=for-the-badge&logo=vue.js&logoColor=4FC08D&logoWidth=20" /> -->
+<!-- <img alt="Angular" src="https://img.shields.io/badge/angular-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&logoWidth=20" /> -->
 </p>
 
 <h3>Mon environnement de développement :</h3>
