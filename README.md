@@ -9,6 +9,12 @@ Développeur du site <a href="https://www.tutomarks.fr" target="_blank" title="O
 <a href="https://www.tutomarks.fr" target="_blank" title="Ouvrir le site Tutomarks dans une nouvelle fenêtre">
 <img alt="Tutomarks" src="https://github.com/tonnevillec/tonnevillec/blob/main/img/tutomarks.svg" style="height: 28px"><img alt="Tutomarks" src="https://img.shields.io/badge/tutomarks-white.svg?&style=for-the-badge" />
 </a>
+  
+<br>
+<br>
+  <a href="https://www.youtube.com/channel/UCcj-rQBP_FfW-UkSDzj38Vw" target="_blank" title="Ouverture de la chaine Youtube de Tutomarks sur une nouvelle fenêtre">
+  --== Retrouvez moi également sur la chaine Youtube de Tutomarks ==--
+  </a>
 </p>
 
 <hr>
@@ -33,13 +39,8 @@ Développeur du site <a href="https://www.tutomarks.fr" target="_blank" title="O
 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-316192.svg?&style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20" />
 <img alt="PostgreSql" src="https://img.shields.io/badge/postgresql-316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=20" />
-</p>
 
-<h3>Je m'y met doucement :p</h3>
-<p>
-<img alt="Vue.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20" />
-<!-- <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-35495E.svg?&style=for-the-badge&logo=vue.js&logoColor=4FC08D&logoWidth=20" /> -->
-<!-- <img alt="Angular" src="https://img.shields.io/badge/angular-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&logoWidth=20" /> -->
+<img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20" />
 </p>
 
 <h3>Mon environnement de développement :</h3>
