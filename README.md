@@ -29,7 +29,7 @@ Développeur du site <a href="https://www.tutomarks.fr" target="_blank" title="O
 <img alt="CSS" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&logoWidth=20" />
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoWidth=20" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=20" />
-<img alt="JQuery" src="https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white&logoWidth=20" />
+<img alt="TailwindCss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=20" />
 
 <img alt="Git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white&logoWidth=20" />
 <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white&logoWidth=20" />
